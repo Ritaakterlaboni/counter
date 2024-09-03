@@ -1,0 +1,26 @@
+*{
+    padding:0;
+    margin:0;
+}
+a,a:hover{
+    text-decoration: none;
+}
+ul,ol{
+    list-style-type: none;
+}
+
+/*all common css end*/
+
+#counterup{
+    padding:25px;
+    background:#000;
+   
+}
+.counterupitems{
+ padding:25px;
+ text-align: center;
+ color:#fff;
+ text-transform: uppercase;
+ background: tomato;
+ border-radius: 10px;
+}
